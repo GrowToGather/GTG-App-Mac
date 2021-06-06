@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.GTG.GTG_App</Name>
+  <DisplayName>GTG-Base</DisplayName>
+  <Description>Contains the neccessary base software of the App.</Description>
+  <Version>0.1.0</Version>
+  <ReleaseDate>2021-05-31</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="14201872" UncompressedSize="55541659" OS="Any"/>
+  <DownloadableArchives>GTG-App.app.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="Non-Existent-License"/>
+  </Licenses>
+  <SHA1>b6b48dec7564490309eebf2f363d3430f5d42649</SHA1>
+ </PackageUpdate>
+ <SHA1>b6b48dec7564490309eebf2f363d3430f5d42649</SHA1>
+ <MetadataName>2021-06-06-1616_meta.7z</MetadataName>
+</Updates>
