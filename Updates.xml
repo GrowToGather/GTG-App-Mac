@@ -2,8 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>4531e1b8d30310cc2bcf018825eb8e91990d12df</SHA1>
- <MetadataName>2021-07-14-1750_meta.7z</MetadataName>
+ <SHA1>e017090e107696fb36fc174e2b5c6951e3c6a968</SHA1>
+ <MetadataName>2021-07-14-1953_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.GTG.GTG_App</Name>
   <DisplayName>GTG-Base</DisplayName>
@@ -12,11 +12,11 @@
   <ReleaseDate>2021-07-14</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="55619443" CompressedSize="14221360" OS="Any"/>
+  <UpdateFile CompressedSize="14220052" UncompressedSize="55619443" OS="Any"/>
   <DownloadableArchives>GTG-App.app.7z</DownloadableArchives>
   <Licenses>
-   <License file="license.txt" name="Non-Existent-License"/>
+   <License name="Non-Existent-License" file="license.txt"/>
   </Licenses>
-  <SHA1>4531e1b8d30310cc2bcf018825eb8e91990d12df</SHA1>
+  <SHA1>e017090e107696fb36fc174e2b5c6951e3c6a968</SHA1>
  </PackageUpdate>
 </Updates>
